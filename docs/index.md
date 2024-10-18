@@ -1,8 +1,8 @@
 # Mikhail Tiurin
 
-## Table of Contents
+![Mikhail Tiurin](./ava.jpg "a title")
 
-<img style="float: right; height: 170px;" src="./ava.jpg">
+## Table of Contents
 
 1. [Contact Information](#contact-information)
 2. [Objective](#objective)
@@ -27,6 +27,7 @@ Experienced SRE, Senior DevOps, and Team Lead specializing in system engineering
 
 ## Work Experience
 
+---
 [**Easybrain**](https://easybrain.com), DevOps Lead Engineer, Cyprus
 *Mobile Gamedev company part of Embracer holding. 1.5kk downloads.*
 
