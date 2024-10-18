@@ -1,4 +1,4 @@
-# Mikhail Tiurin
+# Mikhail Tiurin [![pdf](./pdf.png)](./mikhail_tiurin.pdf)
 
 ![Mikhail Tiurin](./ava.jpg "a title")
 
